@@ -1,1 +1,4 @@
 //Strimgs in java
+//mutabality
+/string obj are immutable and string buffer is mutable(changable)
+
