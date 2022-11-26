@@ -2,3 +2,13 @@
 //mutabality
 /string obj are immutable and string buffer is mutable(changable)
 
+public class String1{
+  public static void main String [] args){
+ 
+ // string 
+  String s= new String("koushik");
+  s.concat("s r")
+  System.out.println(s);
+  }
+
+}
